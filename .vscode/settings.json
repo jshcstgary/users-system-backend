@@ -1,0 +1,71 @@
+{
+	"[aspnetcorerazor]": {
+		"editor.defaultFormatter": "ms-dotnettools.csharp"
+	},
+	"[csharp]": {
+		"editor.defaultFormatter": "ms-dotnettools.csharp"
+	},
+	"[json]": {
+		"editor.defaultFormatter": "vscode.json-language-features"
+	},
+	"[jsonc]": {
+		"editor.defaultFormatter": "vscode.json-language-features"
+	},
+	"[markdown]": {
+		"editor.defaultFormatter": "yzhang.markdown-all-in-one"
+	},
+	"[sql]": {
+		"editor.defaultFormatter": "adpyke.vscode-sql-formatter"
+	},
+	"[xml]": {
+		"editor.defaultFormatter": "DotJoshJohnson.xml"
+	},
+	"better-comments.highlightPlainText": true,
+	"better-comments.tags": [
+		{
+			"backgroundColor": "transparent",
+			"bold": false,
+			"color": "#3498db",
+			"italic": false,
+			"strikethrough": false,
+			"tag": "!",
+			"underline": false
+		},
+		{
+			"backgroundColor": "transparent",
+			"bold": false,
+			"color": "#ff2d00",
+			"italic": false,
+			"strikethrough": false,
+			"tag": "?",
+			"underline": false
+		},
+		{
+			"backgroundColor": "transparent",
+			"bold": false,
+			"color": "#ff8c00",
+			"italic": false,
+			"strikethrough": false,
+			"tag": "todo",
+			"underline": false
+		},
+		{
+			"backgroundColor": "transparent",
+			"bold": false,
+			"color": "#98c379",
+			"italic": false,
+			"strikethrough": false,
+			"tag": "*",
+			"underline": false
+		}
+	],
+	"editor.codeActionsOnSave": {
+		"source.fixAll.ts": "always",
+		"source.organizeImports": "always",
+		"source.removeUnusedImports": "always",
+		"source.sort.json": "always",
+		"source.sortImports": "always"
+	},
+	"editor.wordWrap": "bounded",
+	"editor.wordWrapColumn": 999999999,
+}
